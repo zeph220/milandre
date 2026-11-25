@@ -4,4 +4,5 @@ body {
       background-position: center;  /* Centre l'image */
       background-repeat: no-repeat; /* Évite que l'image se répète */
       background-attachment: fixed; /* Fixe l'image lors du défilement (optionnel) */
+      
     }
